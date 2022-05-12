@@ -1,0 +1,68 @@
+INFO 2022-05-11 18:15:24,814 - Loading MNIST dataset
+INFO 2022-05-11 18:15:24,831 - Transforming MNIST dataset
+INFO 2022-05-11 18:15:28,948 - Visualising MNIST dataset
+INFO 2022-05-11 18:15:41,053 - Loading Cifar dataset
+INFO 2022-05-11 18:15:41,071 - Transforming CIFAR dataset
+INFO 2022-05-11 18:15:48,787 - Visualising CIFAR dataset
+INFO 2022-05-11 18:15:50,311 - Training GoogLeNet on MNIST dataset
+INFO 2022-05-11 18:15:52,362 - NumExpr defaulting to 4 threads.
+INFO 2022-05-11 18:19:31,679 - Training GoogLeNet on MNIST dataset
+INFO 2022-05-11 18:19:33,758 - Trianing GoogLeNet on CIFAR dataset
+INFO 2022-05-11 18:25:08,936 - Loading MNIST dataset
+INFO 2022-05-11 18:25:08,951 - Transforming MNIST dataset
+INFO 2022-05-11 18:25:09,063 - Visualising MNIST dataset
+INFO 2022-05-11 18:25:10,085 - Loading Cifar dataset
+INFO 2022-05-11 18:25:10,102 - Transforming CIFAR dataset
+INFO 2022-05-11 18:25:12,124 - Visualising CIFAR dataset
+INFO 2022-05-11 18:25:14,024 - Training GoogLeNet on MNIST dataset
+INFO 2022-05-11 18:26:09,082 - Training GoogLeNet on MNIST dataset
+INFO 2022-05-11 18:26:51,883 - Loading MNIST dataset
+INFO 2022-05-11 18:26:51,898 - Transforming MNIST dataset
+INFO 2022-05-11 18:26:52,025 - Visualising MNIST dataset
+INFO 2022-05-11 18:26:52,801 - Loading Cifar dataset
+INFO 2022-05-11 18:26:52,816 - Transforming CIFAR dataset
+INFO 2022-05-11 18:26:54,754 - Visualising CIFAR dataset
+INFO 2022-05-11 18:26:56,100 - Training GoogLeNet on MNIST dataset
+INFO 2022-05-11 18:30:43,100 - Loading MNIST dataset
+INFO 2022-05-11 18:30:43,118 - Transforming MNIST dataset
+INFO 2022-05-11 18:30:43,267 - Visualising MNIST dataset
+INFO 2022-05-11 18:30:44,077 - Loading Cifar dataset
+INFO 2022-05-11 18:30:44,097 - Transforming CIFAR dataset
+INFO 2022-05-11 18:30:46,297 - Visualising CIFAR dataset
+INFO 2022-05-11 18:30:48,384 - Training GoogLeNet on MNIST dataset
+INFO 2022-05-11 19:06:00,514 - Loading MNIST dataset
+INFO 2022-05-11 19:06:00,526 - Transforming MNIST dataset
+INFO 2022-05-11 19:06:00,655 - Visualising MNIST dataset
+INFO 2022-05-11 19:06:01,470 - Loading Cifar dataset
+INFO 2022-05-11 19:06:01,484 - Transforming CIFAR dataset
+INFO 2022-05-11 19:06:03,424 - Visualising CIFAR dataset
+INFO 2022-05-11 19:06:04,751 - Training GoogLeNet on MNIST dataset
+INFO 2022-05-11 19:25:31,090 - Saving GoogLeNet trained model on  MNIST dataset
+INFO 2022-05-11 19:25:31,232 - Plotting RESNET Model train losses on MNIST
+INFO 2022-05-11 19:49:46,837 - Loading MNIST dataset
+INFO 2022-05-11 19:49:46,851 - Transforming MNIST dataset
+INFO 2022-05-11 19:49:46,996 - Visualising MNIST dataset
+INFO 2022-05-11 19:49:47,801 - Loading Cifar dataset
+INFO 2022-05-11 19:49:47,817 - Transforming CIFAR dataset
+INFO 2022-05-11 19:49:49,736 - Visualising CIFAR dataset
+INFO 2022-05-11 19:49:51,051 - Training GoogLeNet on MNIST dataset
+INFO 2022-05-11 20:08:55,049 - Saving GoogLeNet trained model on  MNIST dataset
+INFO 2022-05-11 20:08:55,184 - Plotting RESNET Model train losses on MNIST
+INFO 2022-05-11 20:15:41,510 - Training GoogLeNet on MNIST dataset
+INFO 2022-05-11 20:35:06,783 - Saving GoogLeNet trained model on  MNIST dataset
+INFO 2022-05-11 20:35:06,918 - Plotting RESNET Model train losses on MNIST
+INFO 2022-05-11 20:54:17,389 - Saving GoogLeNet trained model on  MNIST dataset
+INFO 2022-05-11 20:54:17,518 - Plotting RESNET Model train losses on MNIST
+INFO 2022-05-11 21:13:49,834 - Saving GoogLeNet trained model on  MNIST dataset
+INFO 2022-05-11 21:13:49,968 - Plotting RESNET Model train losses on MNIST
+INFO 2022-05-11 21:33:00,885 - Saving GoogLeNet trained model on  MNIST dataset
+INFO 2022-05-11 21:33:01,018 - Plotting RESNET Model train losses on MNIST
+INFO 2022-05-11 21:33:08,490 - Trianing GoogLeNet on CIFAR dataset
+INFO 2022-05-11 21:49:22,619 - Saving GoogLeNet trained model on CIFAR dataset
+INFO 2022-05-11 21:49:22,755 - Plotting GoogLeNet Model train losses on CIFAR
+INFO 2022-05-11 22:05:25,490 - Saving GoogLeNet trained model on CIFAR dataset
+INFO 2022-05-11 22:05:25,621 - Plotting GoogLeNet Model train losses on CIFAR
+INFO 2022-05-11 22:21:46,335 - Saving GoogLeNet trained model on CIFAR dataset
+INFO 2022-05-11 22:21:46,470 - Plotting GoogLeNet Model train losses on CIFAR
+INFO 2022-05-11 22:37:49,950 - Saving GoogLeNet trained model on CIFAR dataset
+INFO 2022-05-11 22:37:50,084 - Plotting GoogLeNet Model train losses on CIFAR

@@ -1,0 +1,25 @@
+INFO 2022-05-11 09:47:39,099 - Loading MNIST dataset
+INFO 2022-05-11 09:47:39,117 - Transforming MNIST dataset
+INFO 2022-05-11 09:47:41,308 - Visualising MNIST dataset
+INFO 2022-05-11 09:47:53,855 - Loading Cifar dataset
+INFO 2022-05-11 09:47:53,875 - Transforming CIFAR dataset
+INFO 2022-05-11 09:47:58,909 - Visualising CIFAR dataset
+INFO 2022-05-11 09:48:01,944 - Training VGG on MNIST dataset
+INFO 2022-05-11 09:48:05,620 - NumExpr defaulting to 4 threads.
+INFO 2022-05-11 10:51:53,330 - Saving VGG trained model on  MNIST dataset
+INFO 2022-05-11 10:51:55,074 - Plotting VGG Model train losses on MNIST
+INFO 2022-05-11 11:53:58,759 - Saving VGG trained model on  MNIST dataset
+INFO 2022-05-11 11:54:00,250 - Plotting VGG Model train losses on MNIST
+INFO 2022-05-11 12:58:09,884 - Saving VGG trained model on  MNIST dataset
+INFO 2022-05-11 12:58:11,405 - Plotting VGG Model train losses on MNIST
+INFO 2022-05-11 14:00:14,075 - Saving VGG trained model on  MNIST dataset
+INFO 2022-05-11 14:00:15,586 - Plotting VGG Model train losses on MNIST
+INFO 2022-05-11 14:00:39,386 - Trianing VGG on CIFAR dataset
+INFO 2022-05-11 14:53:53,058 - Saving VGG trained model on CIFAR dataset
+INFO 2022-05-11 14:53:54,546 - Plotting VGG Model train losses on CIFAR
+INFO 2022-05-11 15:45:49,009 - Saving VGG trained model on CIFAR dataset
+INFO 2022-05-11 15:45:50,576 - Plotting VGG Model train losses on CIFAR
+INFO 2022-05-11 16:39:35,208 - Saving VGG trained model on CIFAR dataset
+INFO 2022-05-11 16:39:36,765 - Plotting VGG Model train losses on CIFAR
+INFO 2022-05-11 17:31:37,989 - Saving VGG trained model on CIFAR dataset
+INFO 2022-05-11 17:31:39,476 - Plotting VGG Model train losses on CIFAR

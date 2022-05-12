@@ -1,0 +1,53 @@
+INFO 2022-05-10 19:46:56,699 - Loading MNIST dataset
+INFO 2022-05-10 19:46:56,711 - Transforming MNIST dataset
+INFO 2022-05-10 19:47:00,711 - Visualising MNIST dataset
+INFO 2022-05-10 19:47:13,259 - Loading Cifar dataset
+INFO 2022-05-10 19:47:13,275 - Transforming CIFAR dataset
+INFO 2022-05-10 19:47:20,746 - Visualising CIFAR dataset
+INFO 2022-05-10 19:47:22,469 - Training resnet on MNIST dataset
+INFO 2022-05-10 19:47:24,923 - NumExpr defaulting to 4 threads.
+INFO 2022-05-10 19:48:20,324 - Loading MNIST dataset
+INFO 2022-05-10 19:48:20,337 - Transforming MNIST dataset
+INFO 2022-05-10 19:48:20,450 - Visualising MNIST dataset
+INFO 2022-05-10 19:48:21,647 - Loading Cifar dataset
+INFO 2022-05-10 19:48:21,663 - Transforming CIFAR dataset
+INFO 2022-05-10 19:48:23,513 - Visualising CIFAR dataset
+INFO 2022-05-10 19:48:25,131 - Training resnet on MNIST dataset
+INFO 2022-05-10 19:50:18,164 - Loading MNIST dataset
+INFO 2022-05-10 19:50:18,180 - Transforming MNIST dataset
+INFO 2022-05-10 19:50:18,281 - Visualising MNIST dataset
+INFO 2022-05-10 19:50:19,315 - Loading Cifar dataset
+INFO 2022-05-10 19:50:19,333 - Transforming CIFAR dataset
+INFO 2022-05-10 19:50:21,230 - Visualising CIFAR dataset
+INFO 2022-05-10 19:50:22,903 - Training resnet on MNIST dataset
+INFO 2022-05-10 19:51:02,732 - Loading MNIST dataset
+INFO 2022-05-10 19:51:02,747 - Transforming MNIST dataset
+INFO 2022-05-10 19:51:03,904 - Visualising MNIST dataset
+INFO 2022-05-10 19:51:04,973 - Loading Cifar dataset
+INFO 2022-05-10 19:51:04,990 - Transforming CIFAR dataset
+INFO 2022-05-10 19:51:15,803 - Visualising CIFAR dataset
+INFO 2022-05-10 19:51:17,427 - Training resnet on MNIST dataset
+INFO 2022-05-10 19:59:16,420 - Loading MNIST dataset
+INFO 2022-05-10 19:59:16,437 - Transforming MNIST dataset
+INFO 2022-05-10 19:59:17,708 - Visualising MNIST dataset
+INFO 2022-05-10 19:59:18,800 - Loading Cifar dataset
+INFO 2022-05-10 19:59:18,818 - Transforming CIFAR dataset
+INFO 2022-05-10 19:59:30,593 - Visualising CIFAR dataset
+INFO 2022-05-10 19:59:32,582 - Training resnet on MNIST dataset
+INFO 2022-05-10 21:42:34,604 - Saving RESNET trained model on  MNIST dataset
+INFO 2022-05-10 21:42:34,876 - Plotting RESNET Model train losses on MNIST
+INFO 2022-05-10 23:25:33,047 - Saving RESNET trained model on  MNIST dataset
+INFO 2022-05-10 23:25:33,314 - Plotting RESNET Model train losses on MNIST
+INFO 2022-05-11 01:08:53,810 - Saving RESNET trained model on  MNIST dataset
+INFO 2022-05-11 01:08:54,086 - Plotting RESNET Model train losses on MNIST
+INFO 2022-05-11 02:51:39,983 - Saving RESNET trained model on  MNIST dataset
+INFO 2022-05-11 02:51:40,254 - Plotting RESNET Model train losses on MNIST
+INFO 2022-05-11 02:52:17,189 - Trianing RESNET on CIFAR dataset
+INFO 2022-05-11 04:18:40,455 - Saving RESNET trained model on CIFAR dataset
+INFO 2022-05-11 04:18:40,737 - Plotting RESNET Model train losses on CIFAR
+INFO 2022-05-11 05:44:47,386 - Saving RESNET trained model on CIFAR dataset
+INFO 2022-05-11 05:44:47,661 - Plotting RESNET Model train losses on CIFAR
+INFO 2022-05-11 07:11:15,737 - Saving RESNET trained model on CIFAR dataset
+INFO 2022-05-11 07:11:16,006 - Plotting RESNET Model train losses on CIFAR
+INFO 2022-05-11 08:37:19,832 - Saving RESNET trained model on CIFAR dataset
+INFO 2022-05-11 08:37:20,110 - Plotting RESNET Model train losses on CIFAR

@@ -1,0 +1,14 @@
+INFO 2022-05-11 08:49:24,812 - Loading MNIST dataset
+INFO 2022-05-11 08:49:24,830 - Transforming MNIST dataset
+INFO 2022-05-11 08:49:30,086 - Visualising MNIST dataset
+INFO 2022-05-11 08:49:41,631 - Loading Cifar dataset
+INFO 2022-05-11 08:49:41,654 - Transforming CIFAR dataset
+INFO 2022-05-11 08:49:52,385 - Visualising CIFAR dataset
+INFO 2022-05-11 09:19:56,601 - Loading MNIST dataset
+INFO 2022-05-11 09:19:56,615 - Transforming MNIST dataset
+INFO 2022-05-11 09:19:56,724 - Visualising MNIST dataset
+INFO 2022-05-11 09:19:57,912 - Loading Cifar dataset
+INFO 2022-05-11 09:19:57,930 - Transforming CIFAR dataset
+INFO 2022-05-11 09:20:00,135 - Visualising CIFAR dataset
+INFO 2022-05-11 09:20:02,829 - Training VGG on MNIST dataset
+INFO 2022-05-11 09:20:06,072 - NumExpr defaulting to 4 threads.
